@@ -16,5 +16,6 @@ public class Application {
         context = new Context(new FooBarQix());
         System.out.println("FooBarQix: " + context.executeStrategy(startingNumber));
 
+
     }
 }
